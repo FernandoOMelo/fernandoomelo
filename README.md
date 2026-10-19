@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Fernando+Melo;Desenvolvedor+Back-end;Python+%7C+SQL+%7C+JavaScript" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=FernandoOMelo&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/FernandoOMelo?label=Seguidores&style=flat-square&logo=github&color=181717" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20projetos-34D399?style=flat-square&logo=rocket" alt="Disponível para projetos" />
